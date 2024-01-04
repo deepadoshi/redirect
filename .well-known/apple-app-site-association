@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "BCW3T95RRX.com.mysmartpa",
+        "paths": ["*"]
+      }
+    ]
+  }
+}

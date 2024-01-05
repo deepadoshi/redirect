@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mysmartpa",
+      "sha256_cert_fingerprints":
+      ["78:ED:DA:B8:D5:50:8A:F5:81:48:39:70:03:7A:71:B2:0A:BE:41:B5:43:65:3F:A8:A3:E9:6C:16:6C:E1:A6:49"]
+    }
+  }]
+  
